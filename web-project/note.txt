@@ -1,0 +1,30 @@
+.lenght is used to get the lenght of a string
+.toLowerCase() is used to change string to lower 
+.toUpperCase() is used to change string character to toUpperCase
+lenght is a property so it does not have bracket but .toLowerCase is a method hence bracket
+have you use the "return" command everything after it would not work
+console.log is used to show or print it content 
+you .leght the argument not the function 
+[] is used to get the index of a text. 0 is the location of the first one 
+language[0];
+.at() is used to get the location from behind using minus
+const language = "JavaScript";
+language.at(-1); would display t
+You can combine the .lenght and [] together
+ language[ language.length - 2 ];
+
+Say 
+    function sum(a, b) {
+    console.log(a);
+    console.log(a + b);
+    return a + b;
+}
+when you want to get a few character from a string you can use the 
+SUBSTRING  method. e.g someString.substring(indexStart, indexEnd)
+indexStart is the position of the first Characterr
+indexEnd is the position of the first character you would like to ignore
+const language = "JavaScript";
+language.substring(1, 4); //"ava"
+
+As we know + is used to add and concatenant
+

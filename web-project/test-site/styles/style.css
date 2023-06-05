@@ -1,0 +1,44 @@
+html{background-color: #00539f;}
+
+body{
+    width: 600px;margin:0 auto;
+    background-color: #ff9500;
+    padding:2 20px 20px 20px;
+    border: 5px solid black;
+    
+}
+
+p{
+
+    font-family: 'Baskervville', serif;
+    font-size: 16px;
+    line-height: 2;
+    
+}
+ul{
+    color: blue;
+}
+
+a{
+    color: teal;
+    
+}
+a:hover{
+    background-color: yellow;
+}
+
+h1{
+    text-align: center;
+    font-size: 60px;
+    margin: 0;
+    padding: 20px 0;
+    color: #00539f;
+    text-shadow: 2px 2px 1px black;
+}
+
+img{
+    display: block;
+    margin: 0 auto;
+    
+    
+}
